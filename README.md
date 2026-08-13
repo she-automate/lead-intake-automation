@@ -1,6 +1,6 @@
 # Lead Intake Automation
 
-(workflow.png)
+![Lead Intake Automation Workflow](workflow.png)
 
 ## Business Problem
 
@@ -61,3 +61,11 @@ Google Forms → Google Sheets → Google Sheets → Gmail → Gmail → Google 
 - blueprint.json
 
 - workflow.png
+
+- googlesheet-beforecontact.jpg
+
+- googlesheet-aftercontact.jpg
+
+- owner-gmail.jpg
+
+- customer-gmail.jpg
